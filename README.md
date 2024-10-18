@@ -1,8 +1,1 @@
-Hello, 
-
-I have a previous degree in Psychology and am not working on a second degree in CompSci
-I have a big interest in AI and ML, but I consider myself a beginner and have not delved deep into that field yet.
-Right now I am focusing on C++ and python, but I have some background in webdev as well (HTML, CSS, JS). I plan to focus on C++ and python, as well as learn SQL and Java, to start.
-I will post any projects I use to learn and things I work on in school, so please critique as you will!
-
-Thanks :)
+I hold a BSc in Psychology and am currently completing my BSc in Computer Science. I'm passionate about machine learning and AI, with a background in IT. I'm excited to see where these fields will take me, as I plan to pursue a master’s degree and explore opportunities in academia. My projects here are a mix of academic work and personal interests—follow along on my journey!
