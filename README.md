@@ -14,7 +14,7 @@ I'm an IT professional with a strong interest in networking and a growing specia
 
 **Professional Experience:**
 - IT Support Technician | Public Sector  
-  - Supporting over 400 users with account management, secure access, and troubleshooting in AD and M365 environments.  
+  - Supporting over 1000 users with account management, secure access, and troubleshooting in AD and M365 environments.  
   Contribute to documentation, onboarding guides, and workflow improvements.  
 - Former Apple Expert | Apple Inc.  
   - Provided technical support, training, and mentorship for customers and team members.
