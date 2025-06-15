@@ -1,4 +1,6 @@
-# Hi, I'm Jennifer Choubassi
+# Welcome!
+
+I'm an IT professional with a strong interest in networking and a growing specialization in systems-level and embedded programming. I’m particularly drawn to C++ and low-level development, where I can work close to the hardware and solve real-world problems through efficient, reliable code. I’m driven to deepen my expertise in this space and contribute to projects that demand technical precision and innovation.
 
 **Technical Skills:**
 - **Languages:** C++, C, Python, Java, HTML & CSS, JavaScript
@@ -23,5 +25,5 @@
   
 **Socials:**
 - [LinkedIn](https://www.linkedin.com/in/jennifer-choubassi)
-- [Email](jenny.choubassi@gmail.com)
+- [Email](mailto:jenny.choubassi@gmail.com)
 
